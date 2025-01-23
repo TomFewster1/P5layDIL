@@ -1,0 +1,8 @@
+function preload(){}
+function setup(){
+new Canvas(220,220);
+bird = new Sprite(110,110,50,50,'d')
+}
+function draw(){
+background(220);
+}
